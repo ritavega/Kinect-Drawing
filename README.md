@@ -6,6 +6,13 @@ This short demo project will show you the following:
 * How to display the camera stream.
 * How to draw the trail of the hand on top of a XAML canvas.
 
+##Rita's Environment
+*  Windows 10
+*  Visual Studio Community 2017
+*  C# IDE Environment selected in Visual Studio
+*  Kinect USB cable connected
+
+
 ## Video
 [Watch on YouTube](https://youtu.be/8fTNLHeUXQg)
 
